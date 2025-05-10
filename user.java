@@ -15,5 +15,9 @@ public class user{
       int j =20;
       //logic
     }
+
+  public void m4(){
+    System.out.println("inside m4 method");
+  }
 >>>>>>> Stashed changes
 }
